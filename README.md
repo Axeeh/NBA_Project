@@ -5,7 +5,7 @@ nba university project
 dataset taken from: https://github.com/DomSamangy/NBA_Shots_04_24
 
 
-# Project Guidelines
+## Project Guidelines
 The expected structure of the project report (common for Data Project and Probability & Statistics) is the following:
 
 # Problem statement
