@@ -1,2 +1,5 @@
 # NBA_Project
-the best project about nba shots
+
+nba university project
+
+dataset taken from: https://github.com/DomSamangy/NBA_Shots_04_24
